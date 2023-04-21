@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hasnainportfolio.pages.dev/](https://hasnainportfolio.pages.dev/)
 
-- 💬 Ask me about **Html , Css , JavaScript , React and Next**
+- 💬 Ask me about **Html , Css , JavaScript , React , Next , Typescript , Node , Express , MongoDB , SQL , React Native **
 
 - 📫 How to reach me **hasnainirfan110@gmail.com**
 
