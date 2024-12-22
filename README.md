@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasnain Irfan</h1>
-<h3 align="center">A Passionate Mern Stack Developer</h3>
+<h3 align="center">A Passionate Senior Software Engineerh3>
     <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="" width="400" align="right">
 
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working in Lucid Web Solution as a Frontend Developer!
+- 🔭 I’m currently working in Getweys as a Senior Software Engineer!
 
 - 🌱 I’m currently learning **Everything 🤣**
 
 - 👨‍💻 All of my projects are available at [https://hasnain-protfolio.vercel.app/](https://hasnain-protfolio.vercel.app/)
 
-- 💬 Ask me about **Html , Css , JavaScript , React , Next , Typescript , Node , Express , MongoDB , SQL , React Native **
+- 💬 Ask me about ** Next , React , WebGL , Three.js , Node , Express , MongoDB , SQL , React Native , Html , Css , JavaScript and Typescript **
 
 - 📫 How to reach me **hasnainirfan110@gmail.com**
 
