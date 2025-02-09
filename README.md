@@ -1,35 +1,61 @@
-<h1 align="center">Hi 👋, I'm Hasnain Irfan</h1>
-<h3 align="center">A Passionate Senior Software Engineer </h3>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="" width="400" align="right">
+# <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Hasnain Irfan** 🎯️🚀️</p>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainirfan&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainirfan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working in Getweys as a Senior Software Engineer!
-
-- 🌱 I’m currently learning **Everything 🤣**
-
-- 👨‍💻 All of my projects are available at [https://hasnain-protfolio.vercel.app/](https://hasnain-protfolio.vercel.app/)
-
-- 💬 Ask me about ** Next , React , WebGL , Three.js , Node , Express , MongoDB , SQL , React Native , Html , Css , JavaScript and Typescript **
-
-- 📫 How to reach me **hasnainirfan110@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hasnain-irfan-4488a723a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnain-irfan-4488a723a" height="30" width="40" /></a>
-<a href="https://fb.com/hasnainirfan112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasnainirfan112" height="30" width="40" /></a>
-<a href="https://instagram.com/hasnain_irfan_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasnain_irfan_x" height="30" width="40" /></a>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software-Enginner%20web%20and%20app%20developer;3+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=445EF7FF&vCenter=true&pause=1000&size=18" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainirfan&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainirfan" /> </p>
+**About Me**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<a href="https://www.linkedin.com/in/hasnain-irfan-4488a723a/">
+  <img align="left" alt="Mehdi Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+</a>
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW56NTNtOGZjOWMwcGtjMWRzcXU0NmFqdHI2Y29iZnIzMmN1bGVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainirfan&show_icons=true&locale=en&layout=compact" alt="hasnainirfan" /></p>
+<br/>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainirfan&show_icons=true&locale=en" alt="hasnainirfan" /></p>
+- 💼 I’m currently working in Getweys as a Software Engineer
+- 🌱  I’m currently learning WebGL and Three.js
+- 👨‍💻 All of my projects are available at https://hasnain-protfolio.vercel.app/
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainirfan&" alt="hasnainirfan" /></p>
+#### Languages I have used
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=Typescript)
+
+
+#### Frameworks I have used
+
+
+![React](https://img.shields.io/badge/-React.js-000000?style=flat&logo=React)
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)
+![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
+![NodeJS](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![ReactNative](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=React)
+![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo)
+<br/>
+![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
+
+
+#### Databases and Cloud i have used
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+
+#### Tools i have used
+
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+<br/>
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainirfan&hide_langs_below=1&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=hasnainirfan&show_icons=true&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainirfan&show_icons=true&theme=dark" alt="hasnainirfan">
+</p>
